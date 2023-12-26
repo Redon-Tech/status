@@ -23,5 +23,13 @@
     --submit-button-color: #ffffff;
     --graph-opacity: 1;
     --graph-filter: grayscale(100%);
-  }
-  
+}
+
+
+article .graph {
+    background-blend-mode: saturation;
+}
+
+section canvas {
+    filter: hue-rotate(80.42deg) saturate(102.31%) brightness(71.18%);
+}
