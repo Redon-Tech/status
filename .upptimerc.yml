@@ -6,6 +6,8 @@ sites:
     url: https://redon.tech
   - name: Server Panel
     url: https://panel.redon.tech
+  - name: Billing Panel
+    url: https://billing.redon.tech
   - name: Content Delivery Network
     url: https://cdn.redon.tech
   - name: Node 1
