@@ -1,31 +1,32 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Redon-Tech
+repo: status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Website
+    url: https://redon.tech
+  - name: Server Panel
+    url: https://panel.redon.tech
+  - name: Content Delivery Network
+    url: https://cdn.redon.tech
+  - name: Node 1
+    url: https://node1.redon.tech
+  - name: Node 2
+    url: https://node2.redon.tech
+  - name: Node 4
+    url: https://node4.redon.tech
+  - name: Node 5
+    url: https://node5.redon.tech
+  - name: Email Server
+    url: https://mail.redon.tech
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.redon.tech
+  logoUrl: https://avatars.githubusercontent.com/u/60410737?
+  name: Redon Tech
+  introTitle: "**Redon Tech**"
+  introMessage: This website provides a quick and easy way to view the status of the services we host.
   navbar:
+    - title: Home
+      href: https://redon.tech/
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
