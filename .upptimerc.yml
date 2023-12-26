@@ -10,12 +10,20 @@ sites:
     url: https://cdn.redon.tech
   - name: Node 1
     url: https://node1.redon.tech:8080
+    expectedStatusCodes:
+      - 401
   - name: Node 2
     url: https://node2.redon.tech:8080
+    expectedStatusCodes:
+      - 401
   - name: Node 4
     url: https://node4.redon.tech:8080
+    expectedStatusCodes:
+      - 401
   - name: Node 5
     url: https://node5.redon.tech:8080
+    expectedStatusCodes:
+      - 401
   - name: Email Server
     url: https://mail.redon.tech
 
