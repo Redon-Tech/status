@@ -27,6 +27,7 @@ sites:
   - name: Email Server
     url: https://mail.redon.tech
 
+
 status-website:
   cname: status.redon.tech
   favicon: https://avatars.githubusercontent.com/u/60410737
