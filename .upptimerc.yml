@@ -29,12 +29,24 @@ sites:
 
 status-website:
   cname: status.redon.tech
-  logoUrl: https://avatars.githubusercontent.com/u/60410737?
+  favicon: https://avatars.githubusercontent.com/u/60410737
+  logoUrl: https://avatars.githubusercontent.com/u/60410737
   name: Redon Tech
   introTitle: "**Redon Tech**"
   introMessage: This website provides a quick and easy way to view the status of the services we host.
+  themeUrl: https://status.redon.tech/redon-tech-theme.css
   navbar:
     - title: Home
       href: https://redon.tech/
     - title: Status
       href: /
+
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/30 * * * *"
