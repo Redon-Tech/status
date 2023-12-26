@@ -1,7 +1,7 @@
-url: https://node5.redon.tech
+url: https://node5.redon.tech:8080
 status: down
-code: 502
-responseTime: 219
-lastUpdated: 2023-12-26T09:14:21.045Z
+code: 401
+responseTime: 230
+lastUpdated: 2023-12-26T09:18:54.519Z
 startTime: 2023-12-26T09:14:20.690Z
 generator: Upptime <https://github.com/upptime/upptime>
