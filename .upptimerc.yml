@@ -9,13 +9,13 @@ sites:
   - name: Content Delivery Network
     url: https://cdn.redon.tech
   - name: Node 1
-    url: https://node1.redon.tech
+    url: https://node1.redon.tech:8080
   - name: Node 2
-    url: https://node2.redon.tech
+    url: https://node2.redon.tech:8080
   - name: Node 4
-    url: https://node4.redon.tech
+    url: https://node4.redon.tech:8080
   - name: Node 5
-    url: https://node5.redon.tech
+    url: https://node5.redon.tech:8080
   - name: Email Server
     url: https://mail.redon.tech
 
