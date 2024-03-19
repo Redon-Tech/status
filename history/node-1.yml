@@ -1,7 +1,7 @@
 url: https://node1.redon.tech:8080
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-19T09:50:20.145Z
+status: up
+code: 401
+responseTime: 442
+lastUpdated: 2024-03-19T09:56:50.526Z
 startTime: 2023-12-26T09:13:44.199Z
 generator: Upptime <https://github.com/upptime/upptime>
