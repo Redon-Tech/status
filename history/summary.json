@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 873,
-    "timeDay": 576,
-    "timeWeek": 733,
-    "timeMonth": 688,
-    "timeYear": 852,
+    "timeDay": 616,
+    "timeWeek": 731,
+    "timeMonth": 689,
+    "timeYear": 850,
     "dailyMinutesDown": {
       "2024-12-23": 29,
       "2024-10-31": 24,
@@ -35,10 +35,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 210,
-    "timeDay": 234,
-    "timeWeek": 202,
-    "timeMonth": 220,
-    "timeYear": 209,
+    "timeDay": 289,
+    "timeWeek": 207,
+    "timeMonth": 223,
+    "timeYear": 210,
     "dailyMinutesDown": {
       "2024-11-21": 176,
       "2024-11-08": 45
@@ -56,10 +56,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.47%",
     "time": 334,
-    "timeDay": 383,
-    "timeWeek": 341,
-    "timeMonth": 339,
-    "timeYear": 336,
+    "timeDay": 444,
+    "timeWeek": 358,
+    "timeMonth": 343,
+    "timeYear": 337,
     "dailyMinutesDown": {
       "2025-01-18": 16,
       "2024-12-22": 104,
@@ -81,11 +81,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.47%",
-    "time": 624,
-    "timeDay": 574,
-    "timeWeek": 675,
-    "timeMonth": 674,
-    "timeYear": 629,
+    "time": 623,
+    "timeDay": 502,
+    "timeWeek": 650,
+    "timeMonth": 670,
+    "timeYear": 628,
     "dailyMinutesDown": {
       "2025-01-03": 35,
       "2024-12-22": 9,
@@ -109,10 +109,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.21%",
     "time": 356,
-    "timeDay": 326,
-    "timeWeek": 364,
-    "timeMonth": 364,
-    "timeYear": 360,
+    "timeDay": 286,
+    "timeWeek": 357,
+    "timeMonth": 362,
+    "timeYear": 359,
     "dailyMinutesDown": {
       "2025-01-03": 35,
       "2024-12-23": 907,
@@ -138,12 +138,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.95%",
+    "uptimeYear": "99.22%",
     "time": 400,
-    "timeDay": 374,
-    "timeWeek": 416,
-    "timeMonth": 407,
-    "timeYear": 403,
+    "timeDay": 348,
+    "timeWeek": 408,
+    "timeMonth": 406,
+    "timeYear": 402,
     "dailyMinutesDown": {
       "2024-12-23": 25,
       "2024-11-08": 44,
@@ -151,8 +151,7 @@
       "2024-09-23": 130,
       "2024-03-14": 67,
       "2024-03-13": 285,
-      "2024-01-31": 296,
-      "2024-01-30": 1440
+      "2024-01-31": 296
     }
   },
   {
@@ -167,10 +166,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.13%",
     "time": 148,
-    "timeDay": 103,
-    "timeWeek": 176,
-    "timeMonth": 153,
-    "timeYear": 151,
+    "timeDay": 129,
+    "timeWeek": 180,
+    "timeMonth": 154,
+    "timeYear": 150,
     "dailyMinutesDown": {
       "2024-12-23": 826,
       "2024-11-08": 43,
@@ -179,8 +178,7 @@
       "2024-04-30": 884,
       "2024-03-14": 67,
       "2024-03-13": 285,
-      "2024-01-31": 294,
-      "2024-01-30": 1440
+      "2024-01-31": 294
     }
   },
   {
@@ -189,16 +187,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/node5.redon.tech.ico",
     "slug": "node-5",
     "status": "up",
-    "uptime": "98.72%",
+    "uptime": "98.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.61%",
     "time": 186,
-    "timeDay": 200,
-    "timeWeek": 172,
-    "timeMonth": 186,
-    "timeYear": 186,
+    "timeDay": 250,
+    "timeWeek": 175,
+    "timeMonth": 185,
+    "timeYear": 187,
     "dailyMinutesDown": {
       "2024-12-28": 133,
       "2024-12-27": 1440,
@@ -209,8 +207,7 @@
       "2024-04-30": 884,
       "2024-03-14": 67,
       "2024-03-13": 285,
-      "2024-01-31": 296,
-      "2024-01-30": 1402
+      "2024-01-31": 296
     }
   },
   {
@@ -224,11 +221,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 176,
-    "timeDay": 179,
-    "timeWeek": 156,
-    "timeMonth": 182,
-    "timeYear": 176,
+    "time": 177,
+    "timeDay": 289,
+    "timeWeek": 170,
+    "timeMonth": 185,
+    "timeYear": 177,
     "dailyMinutesDown": {
       "2024-11-08": 43
     }
