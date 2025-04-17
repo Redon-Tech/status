@@ -6,10 +6,12 @@ sites:
     url: https://redon.tech
   - name: Server Panel
     url: https://panel.redon.tech
-  - name: Billing Panel
-    url: https://billing.redon.tech
   - name: Content Delivery Network
     url: https://cdn.redon.tech
+  - name: Node 0
+    url: https://node0.redon.tech:8080
+    expectedStatusCodes:
+      - 401
   - name: Node 1
     url: https://node1.redon.tech:8080
     expectedStatusCodes:
