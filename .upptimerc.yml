@@ -12,14 +12,6 @@ sites:
     url: https://node0.redon.tech:8080
     expectedStatusCodes:
       - 401
-  - name: Node 1
-    url: https://node1.redon.tech:8080
-    expectedStatusCodes:
-      - 401
-  - name: Node 2
-    url: https://node2.redon.tech:8080
-    expectedStatusCodes:
-      - 401
   - name: Node 4
     url: https://node4.redon.tech:8080
     expectedStatusCodes:
