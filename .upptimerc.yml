@@ -20,8 +20,6 @@ sites:
       - 401
   - name: 4D
     url: https://forms.redon.tech
-    expectedStatusCodes:
-      - 401
   - name: Mail
     url: https://mail.redon.tech
 
