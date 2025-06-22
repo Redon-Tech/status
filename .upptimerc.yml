@@ -4,23 +4,25 @@ repo: status
 sites:
   - name: Website
     url: https://redon.tech
-  - name: Server Panel
+  - name: Panel
     url: https://panel.redon.tech
-  - name: Content Delivery Network
-    url: https://cdn.redon.tech
-  - name: Node 0
+  - name: Giga
     url: https://node0.redon.tech:8080
     expectedStatusCodes:
       - 401
-  - name: Node 4
+  - name: Mega
     url: https://node4.redon.tech:8080
     expectedStatusCodes:
       - 401
-  - name: Node 5
+  - name: Wooden
     url: https://node5.redon.tech:8080
     expectedStatusCodes:
       - 401
-  - name: Email Server
+  - name: 4D
+    url: https://forms.redon.tech
+    expectedStatusCodes:
+      - 401
+  - name: Mail
     url: https://mail.redon.tech
 
 
