@@ -45,9 +45,9 @@
     "url": "https://node0.redon.tech:8080",
     "icon": "https://icons.duckduckgo.com/ip3/node0.redon.tech.ico",
     "slug": "giga",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,7 +56,9 @@
     "timeWeek": 212,
     "timeMonth": 212,
     "timeYear": 212,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-24": 0
+    }
   },
   {
     "name": "Mega",
