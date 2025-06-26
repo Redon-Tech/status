@@ -7,14 +7,17 @@ sites:
   - name: Panel
     url: https://panel.redon.tech
   - name: Giga
-    url: http://giga.redon.tech
+    url: giga.redon.tech
     type: globalping
+    location: utah
   - name: Mega
-    url: http://mega.redon.tech
+    url: mega.redon.tech
     type: globalping
+    location: utah
   - name: Wooden
-    url: http://wooden.redon.tech
+    url: wooden.redon.tech
     type: globalping
+    location: utah
   - name: 4D
     url: https://forms.redon.tech
   - name: Mail
