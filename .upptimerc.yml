@@ -7,15 +7,15 @@ sites:
   - name: Panel
     url: https://panel.redon.tech
   - name: Giga
-    url: https://node0.redon.tech:8080
-    expectedStatusCodes:
-      - 401
+    check: "tcp-ping"
+    url: https://giga.redon.tech
+    port: 53
   - name: Mega
-    url: https://node4.redon.tech:8080
+    url: https://mega.redon.tech:8080
     expectedStatusCodes:
       - 401
   - name: Wooden
-    url: https://node5.redon.tech:8080
+    url: https://wooden.redon.tech:8080
     expectedStatusCodes:
       - 401
   - name: 4D
