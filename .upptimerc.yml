@@ -10,14 +10,17 @@ sites:
     url: giga.redon.tech
     type: globalping
     location: utah
+    check: "tcp-ping"
   - name: Mega
     url: mega.redon.tech
     type: globalping
     location: utah
+    check: "tcp-ping"
   - name: Wooden
     url: wooden.redon.tech
     type: globalping
     location: utah
+    check: "tcp-ping"
   - name: 4D
     url: https://forms.redon.tech
   - name: Mail
