@@ -7,17 +7,14 @@ sites:
   - name: Panel
     url: https://panel.redon.tech
   - name: Giga
-    check: "tcp-ping"
-    url: https://giga.redon.tech
-    port: 53
+    url: http://giga.redon.tech
+    type: globalping
   - name: Mega
-    url: https://mega.redon.tech:8080
-    expectedStatusCodes:
-      - 401
+    url: http://mega.redon.tech
+    type: globalping
   - name: Wooden
-    url: https://wooden.redon.tech:8080
-    expectedStatusCodes:
-      - 401
+    url: http://wooden.redon.tech
+    type: globalping
   - name: 4D
     url: https://forms.redon.tech
   - name: Mail
