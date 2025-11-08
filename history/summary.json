@@ -24,9 +24,9 @@
     "url": "https://panel.redon.tech",
     "icon": "https://icons.duckduckgo.com/ip3/panel.redon.tech.ico",
     "slug": "panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 253,
     "timeMonth": 264,
     "timeYear": 303,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-08": 0
+    }
   },
   {
     "name": "Giga",
@@ -43,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "giga",
     "status": "up",
-    "uptime": "47.99%",
+    "uptime": "48.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "47.99%",
+    "uptimeYear": "48.00%",
     "time": 69,
     "timeDay": 78,
     "timeWeek": 61,
@@ -157,11 +159,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wooden",
     "status": "up",
-    "uptime": "60.98%",
+    "uptime": "60.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "60.98%",
+    "uptimeYear": "60.99%",
     "time": 34,
     "timeDay": 27,
     "timeWeek": 22,
@@ -231,11 +233,11 @@
     "url": "https://forms.redon.tech",
     "icon": "https://icons.duckduckgo.com/ip3/forms.redon.tech.ico",
     "slug": "4-d",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.64%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.72%",
     "time": 1268,
     "timeDay": 1082,
@@ -243,6 +245,7 @@
     "timeMonth": 1237,
     "timeYear": 1268,
     "dailyMinutesDown": {
+      "2025-11-08": 0,
       "2025-11-03": 56,
       "2025-10-27": 25,
       "2025-10-20": 24,
@@ -269,9 +272,9 @@
     "url": "https://mail.redon.tech",
     "icon": "https://icons.duckduckgo.com/ip3/mail.redon.tech.ico",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -280,6 +283,8 @@
     "timeWeek": 174,
     "timeMonth": 186,
     "timeYear": 168,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-08": 0
+    }
   }
 ]
