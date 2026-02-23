@@ -109,11 +109,11 @@
     "url": "https://forms.redon.tech",
     "icon": "https://icons.duckduckgo.com/ip3/forms.redon.tech.ico",
     "slug": "4-d",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.97%",
     "time": 1327,
     "timeDay": 910,
@@ -121,6 +121,7 @@
     "timeMonth": 1266,
     "timeYear": 1327,
     "dailyMinutesDown": {
+      "2026-02-23": 0,
       "2026-02-16": 44,
       "2026-02-02": 54
     }
