@@ -22,19 +22,19 @@
     "url": "https://panel.redon.tech",
     "icon": "https://icons.duckduckgo.com/ip3/panel.redon.tech.ico",
     "slug": "panel",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "89.54%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.97%",
     "time": 273,
-    "timeDay": 300,
-    "timeWeek": 211,
+    "timeDay": 267,
+    "timeWeek": 214,
     "timeMonth": 245,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2026-04-21": 0
+      "2026-04-21": 151
     }
   },
   {
