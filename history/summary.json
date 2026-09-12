@@ -4,16 +4,16 @@
     "url": "https://redon.tech",
     "icon": "https://icons.duckduckgo.com/ip3/redon.tech.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "94.67%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "status": "up",
+    "uptime": "94.66%",
+    "uptimeDay": "92.29%",
+    "uptimeWeek": "98.90%",
     "uptimeMonth": "49.94%",
-    "uptimeYear": "85.52%",
+    "uptimeYear": "85.50%",
     "time": 267,
-    "timeDay": 174,
-    "timeWeek": 385,
-    "timeMonth": 348,
+    "timeDay": 240,
+    "timeWeek": 384,
+    "timeMonth": 349,
     "timeYear": 317,
     "dailyMinutesDown": {
       "2026-05-02": 1018,
@@ -71,7 +71,7 @@
       "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 264,
-      "2026-09-12": 0
+      "2026-09-12": 111
     }
   },
   {
