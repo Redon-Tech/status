@@ -8,13 +8,13 @@
     "uptime": "94.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "76.99%",
+    "uptimeMonth": "79.67%",
     "uptimeYear": "85.50%",
     "time": 274,
     "timeDay": 275,
     "timeWeek": 573,
-    "timeMonth": 418,
-    "timeYear": 325,
+    "timeMonth": 428,
+    "timeYear": 326,
     "dailyMinutesDown": {
       "2026-05-02": 1018,
       "2026-05-01": 1440,
@@ -88,8 +88,8 @@
     "time": 368,
     "timeDay": 189,
     "timeWeek": 356,
-    "timeMonth": 324,
-    "timeYear": 379,
+    "timeMonth": 325,
+    "timeYear": 380,
     "dailyMinutesDown": {
       "2026-04-21": 151,
       "2026-05-04": 99,
@@ -112,7 +112,7 @@
     "time": 58,
     "timeDay": 27,
     "timeWeek": 28,
-    "timeMonth": 28,
+    "timeMonth": 27,
     "timeYear": 56,
     "dailyMinutesDown": {
       "2026-02-01": 32,
@@ -174,8 +174,8 @@
     "time": 1283,
     "timeDay": 1045,
     "timeWeek": 1327,
-    "timeMonth": 1325,
-    "timeYear": 1292,
+    "timeMonth": 1333,
+    "timeYear": 1293,
     "dailyMinutesDown": {
       "2026-02-02": 54,
       "2026-02-16": 44,
@@ -203,17 +203,19 @@
     "url": "https://mail.redon.tech",
     "icon": "https://icons.duckduckgo.com/ip3/mail.redon.tech.ico",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 187,
     "timeDay": 52,
     "timeWeek": 155,
-    "timeMonth": 417,
-    "timeYear": 193,
-    "dailyMinutesDown": {}
+    "timeMonth": 426,
+    "timeYear": 194,
+    "dailyMinutesDown": {
+      "2026-09-21": 0
+    }
   }
 ]
