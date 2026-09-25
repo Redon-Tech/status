@@ -6,18 +6,6 @@ sites:
     url: https://redon.tech
   - name: Panel
     url: https://panel.redon.tech
-  - name: Giga
-    url: giga.redon.tech
-    type: globalping
-    location: utah
-    check: "tcp-ping"
-  - name: Mega
-    url: mega.redon.tech
-    type: globalping
-    location: utah
-    check: "tcp-ping"
-  - name: 4D
-    url: https://forms.redon.tech
   - name: Mail
     url: https://mail.redon.tech
 
